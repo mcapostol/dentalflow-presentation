@@ -1,0 +1,14 @@
+{
+  "name": "dentalflow-presentation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Prezentare HTML pentru conceptul DentalFlow",
+  "scripts": {
+    "verify": "node scripts/verify.mjs",
+    "build": "node scripts/build.mjs",
+    "serve": "npx --yes serve . -l 4173"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
