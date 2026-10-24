@@ -9,3 +9,5 @@
 .appointment-details{flex:1;min-width:0}.appointment-person{display:block;font-size:12px;font-weight:600}.appointment-service{display:block;font-size:10px;color:#819078;margin-top:3px}.appointment-clinic{display:block;font-size:9px;margin-top:3px}.appointment-empty{font-size:12px;padding:35px 0}.appointment-status[data-status=pending]{background:#f8eddb;color:#a3844f}.phone-eyebrow{font-size:8px;color:#899a77;display:block;margin-bottom:11px}.phone-title{line-height:1.4!important}.phone-details{list-style:none;margin:0;padding:0}.phone-detail{padding:11px 0;border-top:1px solid #d5e1c7;font-size:10px;color:#627858}.phone-detail:last-child{padding-bottom:0}
 
 body{overflow-x:clip}.hero-copy{min-width:0}@media(max-width:800px){.hero{grid-template-columns:minmax(0,1fr)}}@media(max-width:580px){.hero h1 br:nth-child(2){display:initial}.hero h1{font-size:clamp(39px,12.5vw,49px)}}
+
+@media(max-width:580px){.orbit-two{display:none}}
